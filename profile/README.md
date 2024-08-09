@@ -76,4 +76,4 @@
 
 ## 시연 영상
 
-유투브 링크
+[유투브 링크](https://youtu.be/W6tSslcCQOw)
